@@ -1,0 +1,12 @@
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.deps.json
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.csproj.AssemblyReference.cache
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.AssemblyInfoInputs.cache
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.AssemblyInfo.cs
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.csproj.CoreCompileInputs.cache
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\refint\BlazorSozluk.Common.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\ref\BlazorSozluk.Common.dll
