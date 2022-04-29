@@ -65,3 +65,13 @@ C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi
 C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\BlazorSozluk.Api.WebApi.pdb
 C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\BlazorSozluk.Api.WebApi.genruntimeconfig.cache
 C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\ref\BlazorSozluk.Api.WebApi.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\BlazorSozluk.Api.Application.dll
+C:\code\BlazorSozluk\Project\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\BlazorSozluk.Api.Application.pdb

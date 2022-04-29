@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4YPs3XrjDNIgVfoiht4a//YzAeIkjAGLEyA8z1lxzVvxhI101O6xdrtpwd7wAJrzeBvSOcf8mI9YQrfycz5GmQ==",
+  "dgSpecHash": "RSa5X6yIeB2lWSZ1/l+e2Jf9xDDkRrkuTLfhaFlY0G1FVYunGCKQF0wgAPsFmYLSpHo4pEpUUK85f/1JcK/j+A==",
   "success": true,
   "projectFilePath": "C:\\code\\BlazorSozluk\\Project\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Tuncer Rüstemoğlu\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
