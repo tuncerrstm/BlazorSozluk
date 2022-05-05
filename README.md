@@ -21,7 +21,7 @@ It is a project and is designed as a blog website.
 ## Hi there, I'm Tundzher. :blush:
 
 ### | Software Engineer | 
-#### | C#, Java, React Developer |
+#### | C#, .NET Core, React Developer |
 
 <font color="red"> Coffee is how I keep up with! `<code />` </font>
 
