@@ -1,5 +1,3 @@
-# BlazorSozluk
-
 # BlazorSozluk Project
 
 ## Tools & Infrastructures & Technologies Used
